@@ -1,4 +1,4 @@
-# Transparent-Search-Bar-Buttons
+# Transparent-Search-Bar-In-DM-Discord
 Frosted Theme Didn't Work So I Fixed It.
 
 ---
