@@ -4,6 +4,7 @@ Frosted Theme Didn't Work So I Fixed It.
 ---
 
 #Before:
+
 <img width="376" height="106" alt="image" src="https://github.com/user-attachments/assets/1fcfaeb7-a694-4e08-80bd-72c6f90838ab" />
 
 ---
