@@ -3,13 +3,13 @@ Frosted Theme Didn't Work So I Fixed It.
 
 ---
 
-#Before:
+# Before:
 
 <img width="376" height="106" alt="image" src="https://github.com/user-attachments/assets/1fcfaeb7-a694-4e08-80bd-72c6f90838ab" />
 
 ---
 
-#After:
+# After:
 
 <img width="386" height="109" alt="image" src="https://github.com/user-attachments/assets/042d4dc5-4618-418c-8d11-641528cdc034" />
 
