@@ -1,6 +1,11 @@
 # Transparent-Search-Bar-Buttons
 Frosted Theme Didn't Work So I Fixed It.
 
+Before - After:
+<img width="743" height="139" alt="image" src="https://github.com/user-attachments/assets/23aded7b-a1ed-4853-8bf1-07fa1c039e10" /> <img width="646" height="129" alt="image" src="https://github.com/user-attachments/assets/54dfa66e-d81f-417b-8178-b4d2990230fb" />
+
+---
+
 # 🎨 How to Install CSS Themes and Custom CSS files on Vencord & BetterDiscord
 
 Customize your Discord experience with beautiful CSS themes using **Vencord** and **BetterDiscord**. This guide shows you how to install full themes and use Quick CSS for fast tweaks! 💻✨
