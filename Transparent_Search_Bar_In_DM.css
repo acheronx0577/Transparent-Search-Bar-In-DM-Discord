@@ -1,25 +1,25 @@
 /**
- * @name Transparent Search Bar In DM
- * @author AcheronX.
- * @description Make search bar in dm transparent fit with theme. https://github.com/Gg2jdjdjdwi.
- * @version 0.0.1
+ * 🔍 Transparent Search Bar In DM
+ * @author AcheronX
+ * @description Transparent search bar to fit theme
+ * @version 1
  * @source https://github.com/Gg2jdjdjdwi
  */
 
-/* Make container transparent */
+/* 🏠 Container - subtle transparent bg */
 .searchBar__5ec2f.container_a45028 {
-    background-color: rgba(0, 0, 0, 0.144) !important;
+  background-color: rgba(0, 0, 0, 0.144) !important;
 }
 
-/* Make inner container and input field transparent */
+/* ✨ Inner container & input - fully transparent, no border/shadow */
 .inner_a45028,
 .input_a45028 {
-    background-color: transparent !important;
-    border: none !important; /* Remove border if needed */
-    box-shadow: none !important; 
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
 }
 
-/* Optional: Adjust icon colors if needed */
+/* 🎨 Icon color - bright white */
 .icon_a45028 {
-    color: rgb(255, 255, 255) !important; /* Change to match your design */
+  color: rgb(255, 255, 255) !important;
 }
